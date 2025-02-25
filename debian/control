@@ -1,0 +1,5 @@
+Package: fortipy
+Architecture: all
+Depends: ${misc:Depends}, ${python3:Depends}
+Maintainer: Squatchy
+Description: Debian hardening CLI tool for security configuration and patching
